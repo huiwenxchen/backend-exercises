@@ -3,6 +3,7 @@
 fb-mini simulates the databases of a social media app, and the mock data is generated using casual (https://www.npmjs.com/package/casual).
  <br />
 Tables:
+<img width="666" alt="Screen Shot 2022-01-18 at 7 07 59 PM" src="https://user-images.githubusercontent.com/97475388/150038825-66f8a28d-7153-475d-bfc6-aab98b39627e.png">
 <br>
 <br>
 Posts table:
@@ -11,8 +12,6 @@ Posts table:
 <br>
 Users table:
 <img width="756" alt="Screen Shot 2022-01-18 at 7 10 38 PM" src="https://user-images.githubusercontent.com/97475388/150039048-155ac532-5347-4af4-8360-782e8c52506c.png">
-
-<img width="666" alt="Screen Shot 2022-01-18 at 7 07 59 PM" src="https://user-images.githubusercontent.com/97475388/150038825-66f8a28d-7153-475d-bfc6-aab98b39627e.png">
  <br />
  <br />
 Friends table:
