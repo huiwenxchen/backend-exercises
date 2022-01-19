@@ -1,6 +1,6 @@
 # FB-MINI
 
-fb-mini simulates the databases of a social media app, and the data is generated using casual.
+fb-mini simulates the databases of a social media app, and the mock data is generated using casual (https://www.npmjs.com/package/casual).
 Tables: <br />
 <br>
 <br>
